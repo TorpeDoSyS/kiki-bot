@@ -22,7 +22,7 @@ client.on('ready', () => {
 client.user.setGame('BroadCast II -bc','https://www.twitch.tv/kemo355');
 console.log('Logging into discord..');
 console.log(`
-By Ҝ€₥σ
+By TorpeDoSyS
 `);
 
 });
